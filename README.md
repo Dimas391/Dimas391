@@ -13,10 +13,11 @@
 - 🌱 I’m currently learning **Web Development**
 - 💬 Ask me about **Anyting**
 - 📫 How to reach me: **dimskur98@gmail.com**
+- 💞️ I’m looking to collaborate on **Web Developer**
 
 ---
 
-### 💻 Tech Stack
+### Currently Learn
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -26,6 +27,12 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ---
@@ -33,34 +40,15 @@
 ### 📈 GitHub Stats & Public Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimaskurniawan&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dimas391&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dimaskurniawan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dimas391&theme=radical" alt="GitHub Streak" />
 </p>
-
----
-
-### 📌 Featured Projects
-
-Here are some of the projects I've been working on recently:
-
-- 🚀 [Cafe Management System](https://github.com/dimaskurniawan/cafe-management)
-- 🧠 [Human Detection with OpenCV](https://github.com/dimaskurniawan/human-detector)
-- 🌐 [Simple Website using PHP & MySQL](https://github.com/dimaskurniawan/simple-web)
-
----
 
 ### 📫 Connect with Me
 
 <p>
-  <a href="mailto:dimaskurniawan@email.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/dimaskurniawan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/dimaskurniawan"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
-  — Cory House
+  <a href="mailto:dimskur98@email.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dimas-kurniawan-59a60824a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/dimas_kurniawan20114/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
