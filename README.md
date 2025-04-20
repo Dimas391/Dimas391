@@ -17,6 +17,14 @@
 
 ---
 
+### 📫 Connect with Me
+
+<p>
+  <a href="mailto:dimskur98@email.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dimas-kurniawan-59a60824a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/dimas_kurniawan20114/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
 ### Currently Learn
 
 <p>
@@ -43,12 +51,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Dimas391&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Dimas391&theme=radical" alt="GitHub Streak" />
-</p>
-
-### 📫 Connect with Me
-
-<p>
-  <a href="mailto:dimskur98@email.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/dimas-kurniawan-59a60824a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/dimas_kurniawan20114/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
