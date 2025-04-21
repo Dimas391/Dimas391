@@ -48,10 +48,16 @@
 
 ---
 
-### 📈 GitHub Stats & Public Projects
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dimas391&show_icons=true&theme=github_dark&count_private=true&hide_title=true&hide_border=true&icon_color=2ecc71&title_color=2ecc71&text_color=ffffff" width="350" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Dimas391&theme=github-dark&hide_border=true&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71" width="350" alt="GitHub Streak" />
 </p>
+
+### 🧠 My Most Used Programming Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimas391&layout=compact&theme=github_dark&hide_border=true&title_color=2ecc71&text_color=ffffff" width="350" alt="Top Langs" />
+</p>
+
