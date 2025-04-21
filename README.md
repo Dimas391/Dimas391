@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p>
   <a href="mailto:dimskur98@email.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
