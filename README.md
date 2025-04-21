@@ -48,17 +48,19 @@
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
-<table>
+<h3 align="center">📊 GitHub Stats</h3>
+
+<table align="center">
   <tr>
-    <td align="center">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Dimas391&show_icons=true&theme=github_dark&count_private=true&hide_border=true&icon_color=2ecc71&title_color=2ecc71&text_color=ffffff&card_width=300" width="360px" alt="GitHub Stats" />
     </td>
-    <td align="center">
+    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Dimas391&theme=github-dark&hide_border=true&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71&card_width=300" width="360px" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimas391&layout=compact&theme=github_dark&hide_border=true&title_color=2ecc71&text_color=ffffff" width="350" alt="Top Langs" />
